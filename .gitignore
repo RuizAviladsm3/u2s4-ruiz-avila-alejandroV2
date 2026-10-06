@@ -1,0 +1,7 @@
+venv/
+miproyecto_raa/venv/
+.env
+miproyecto_raa/.env
+__pycache__/
+*.pyc
+*.sqlite3
