@@ -1,5 +1,5 @@
 from pathlib import Path
-import pym
+#import pym
 # pymysql: el conector que instalaste en el paso 02
 import pymysql
 pymysql.install_as_MySQLdb()
